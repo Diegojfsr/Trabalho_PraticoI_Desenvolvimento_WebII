@@ -1,20 +1,18 @@
-# Trabalho_PraticoI_Desenvolvimento_WebII
-
-
-
 
 <h1> Sejam bem-vindos!!! </h1>
-<h2> Esse é o meu Projeto Pratico em Jogos Digitais. </h2>
+<h2> Esse é o meu Projeto Pratico em Desenvolvimento Web com PHP. </h2>
 
 <h4> Repositorio criado para documentar meu projeto pratico desenvolvido durante o III periodo de formação do Curso de GTI
- na disciplina Jogos Digitais do IF Sudeste MG </h4>
+ na disciplina Desenvolvimento Web com PHP do IF Sudeste MG </h4>
 
 
 <h2> 🎯 Objetivo </h2>
 Desenvolver um site que utilize banco de dados, com o intuito de armazenar os dados inseridos pelo usuário. É muito importante pensar na usabilidade e a aparência do site.
+
+
 <h4> 
- Link para o prototipo Navegavel: 
-<a href="https://"> <strong> Acessar </strong></a>
+ Link para o prototipo nevegavel: 
+<a href="https://www.figma.com/proto/KvOXCxhZu8LymooOMTSf1D/Trabalho-Delphi?node-id=1471%3A565&scaling=min-zoom&page-id=901%3A338&starting-point-node-id=1471%3A565&scaling=scale-down-width&hide-ui=1"> <strong> Acessar </strong></a>
 </h4>
 
 
