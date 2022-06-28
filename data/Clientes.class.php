@@ -35,62 +35,82 @@
             $this->ClienteCidade = $ClienteCidade;
             $this->ClienteComplemento = $ClienteComplemento;
         }
-
+        //-----------------idCliente----------------------------
         public function get$IdCliente(){
             return $this->idCliente;
         }
         public function setIdCliente($idCliente){
             $this->idCliente = $idCliente;
         }
+        //----------------ClienteNome-----------------------------
         public function getClienteNome(){
             return $this->ClienteNome;
         }
         public function setClienteNome($ClienteNome){
             $this->ClienteNome = $ClienteNome;
         }
+        //---------------ClienteSobreNome------------------------------
         public function getClienteSobreNome(){
             return $this->ClienteSobreNome;
         }
         public function setClienteSobreNome($ClienteSobreNome){
             $this->ClienteSobreNome = $ClienteSobreNome;
         }
-        public function getIdUsuario(){
-            return $this->idusuario;
+        //-----------------ClienteCpf----------------------------
+        public function getClienteCpf(){
+            return $this->ClienteCpf;
         }
-        public function setIdUsuario($idusuario){
-            $this->idusuario = $idusuario;
+        public function setClienteCpf($ClienteCpf){
+            $this->ClienteCpf = $ClienteCpf;
         }
-        public function getIdUsuario(){
-            return $this->idusuario;
+        //---------------ClienteTelefone------------------------------
+        public function getClienteTelefone(){
+            return $this->ClienteTelefone;
         }
-        public function setIdUsuario($idusuario){
-            $this->idusuario = $idusuario;
+        public function setClienteTelefone($ClienteTelefone){
+            $this->ClienteTelefone = $ClienteTelefone;
         }
-        public function getIdUsuario(){
-            return $this->idusuario;
+        //----------------ClienteEmail-----------------------------
+        public function getClienteEmail(){
+            return $this->ClienteEmail;
         }
-        public function setIdUsuario($idusuario){
-            $this->idusuario = $idusuario;
+        public function setClienteEmail($ClienteEmail){
+            $this->ClienteEmail = $ClienteEmail;
         }
-        public function getIdUsuario(){
-            return $this->idusuario;
+        //----------------ClienteRua-----------------------------
+        public function getClienteRua(){
+            return $this->ClienteRua;
         }
-        public function setIdUsuario($idusuario){
-            $this->idusuario = $idusuario;
+        public function setClienteRua($ClienteRua){
+            $this->ClienteRua = $ClienteRua;
         }
-        
-        public function getIdUsuario(){
-            return $this->idusuario;
+        //---------------ClienteNumero------------------------------
+        public function getClienteNumero(){
+            return $this->ClienteNumero;
         }
-        public function setIdUsuario($idusuario){
-            $this->idusuario = $idusuario;
+        public function setClienteNumero($ClienteNumero){
+            $this->ClienteNumero = $ClienteNumero;
         }
-        
-        public function getIdUsuario(){
-            return $this->idusuario;
+        //---------------ClienteBairro------------------------------
+        public function getClienteBairro(){
+            return $this->ClienteBairro;
         }
-        public function setIdUsuario($idusuario){
-            $this->idusuario = $idusuario;
+        public function setClienteBairro($ClienteBairro){
+            $this->ClienteBairro = $ClienteBairro;
+        }
+         //---------------ClienteCidade------------------------------
+        public function getClienteCidade(){
+            return $this->ClienteCidade;
+        }
+        public function setClienteCidade($ClienteCidade){
+            $this->ClienteCidade = $ClienteCidade;
+        }
+        //---------------ClienteComplemento------------------------------
+        public function getClienteComplemento(){
+            return $this->ClienteComplemento;
+        }
+        public function setClienteComplemento($ClienteComplemento){
+                $this->idClienteComplemento = $ClienteComplemento;
         }
 
 

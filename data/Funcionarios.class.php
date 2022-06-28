@@ -17,24 +17,28 @@
                 $this->EmailFuncionario = $EmailFuncionario;
                 $this->SenhaFuncionario = $SenhaFuncionario;
         }
+        //---------------idFuncionario------------------------------
         public function getIdFuncionario(){
             return $this->getIdFuncionario;
         }
         public function setIdFuncionario($idFuncionario){
             $this->idFuncionario = $idFuncionario;
         }
+        //---------------NomeFuncionario------------------------------
         public function getNomeFuncionario(){
             return $this->NomeFuncionario;
         }
         public function setNomeFuncionario($NomeFuncionario){
             $this->NomeFuncionario = $NomeFuncionario;
         }
+        //---------------EmailFuncionario------------------------------
         public function getEmailFuncionario(){
             return $this->EmailFuncionario;
         }
         public function setEmailFuncionario($EmailFuncionario){
             $this->EmailFuncionario = $EmailFuncionario;
         }
+        //---------------SenhaFuncionario------------------------------
         public function getSenhaFuncionario(){
             return $this->SenhaFuncionario;
         }

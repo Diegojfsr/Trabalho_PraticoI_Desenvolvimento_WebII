@@ -12,6 +12,7 @@
                 $this->email = $email;
                 $this->senha = $senha;
         }
+        
         public function getIdUsuario(){
             return $this->idusuario;
         }
